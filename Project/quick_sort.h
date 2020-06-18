@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 void quick_sort(vector<VideoGame>& data);
 
 #endif
